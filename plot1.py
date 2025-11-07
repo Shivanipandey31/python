@@ -5,7 +5,7 @@
 # x=np.arange(0,10)
 # y=x**2
 # plt.xlabel('Shivani')
-# plt.ylabel('Simran')
+# plt.ylabel('Pandey')
 # plt.plot(x,y)
 # plt.title("nth graph")
 # plt.show()
